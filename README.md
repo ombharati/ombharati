@@ -1,17 +1,37 @@
+<div align="center">
+
 # Om Bharati
 
-> CS student from Odisha. Building things nobody sees until they stop working.
+**B.Tech CSE · Bhubaneswar, Odisha**  
+Backend systems, networking, and infrastructure — built from the bottom up.
+
+</div>
 
 ---
 
-## Outside the Stack
+### The Stack
 
-* 🎬 Cinematographer
-* 🏊 Swimming because debugging isn't considered a sport
-* 🌍 Traveling whenever time, money, and reality align
+**Languages:** Python, C, Go, SQL
+
+**Technologies:** Linux & Networking, PostgreSQL, Docker, AWS, Kubernetes
+
+**Concepts:** System Design, Distributed Systems, Advanced Python
+
+
+`Currently learning`
 
 ---
 
-## Reach Me
+### Outside the Stack
 
-📫 `i.ombharati@gmail.com`
+- 🎞️ Cinematographer
+- 🏊 Swimming, because debugging isn't considered a sport
+- 🌍 Traveling whenever time, money, and reality align
+
+---
+
+<div align="center">
+
+*Building things nobody sees until they stop working.*
+
+</div>
