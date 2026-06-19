@@ -3,7 +3,7 @@
 # Om Bharati
 
 **B.Tech CSE · Bhubaneswar, Odisha**  
-Backend systems, networking, and infrastructure — built from the bottom up.
+Backend systems, networking, and infrastructure built from the bottom up.
 
 </div>
 
