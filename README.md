@@ -15,11 +15,19 @@ I spend a fair amount of time in the terminal, usually with Vim open.
 
 I'm still early in the journey, so this GitHub is mostly a record of things I'm learning, building, breaking, and understanding along the way.
 
-```mermaid
-flowchart LR
-    A[Curiosity] --> B[Read Docs]
-    B --> C[Build]
-    C --> D[Break]
-    D --> E[Debug]
-    E --> F[Learn]
-    F --> A
+<div align="center">
+
+<kbd>Curiosity</kbd>
+&nbsp;→&nbsp;
+<kbd>Read Docs</kbd>
+&nbsp;→&nbsp;
+<kbd>Build</kbd>
+&nbsp;→&nbsp;
+<kbd>Break</kbd>
+&nbsp;→&nbsp;
+<kbd>Debug</kbd>
+&nbsp;→&nbsp;
+<kbd>Learn</kbd>
+&nbsp;↺
+
+</div>
