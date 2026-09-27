@@ -17,6 +17,4 @@ struct Profile {
     };
 };
 ```
-[![Web](https://img.shields.io/badge/WEB-000000?style=for-the-badge)](https://ombharati.github.io/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge)](mailto:i.ombharati@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge)](https://linkedin.com/in/om-bharati5/)
+[`GET /web`](https://ombharati.github.io/)  [`GET /email`](mailto:i.ombharati@gmail.com)  [`GET /linkedin`](https://linkedin.com/in/om-bharati5/)
