@@ -1,5 +1,4 @@
-<img width="736" height="412" alt="_ (2)" src="https://github.com/user-attachments/assets/cb3ae2e9-74b2-4686-be9c-6d67d03b0e21" />
-
+<img src="https://github.com/user-attachments/assets/cb3ae2e9-74b2-4686-be9c-6d67d03b0e21" width="100%" alt="_ (2)">
 
 # Hi, I'm Om
 
