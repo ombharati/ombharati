@@ -1,4 +1,3 @@
-### Where to Find Me
-- **Personal Portfolio:** [ombharati.github.io](https://ombharati.github.io)
-- **Email:** [i.ombharati@gmail.com](mailto:i.ombharati@gmail.com)
-- **LinkedIn:** [linkedin.com/in/om-bharati5](https://www.linkedin.com/in/om-bharati5/)
+Drawn to what happens beneath the surface from core engines to **AI** orchestration.
+Shipping **Python** and **FastAPI** services, **RAG** pipelines on **pgvector**, and **Dockerized** workflows on **Linux**.
+Everything else speaks for itself in the repositories below.
